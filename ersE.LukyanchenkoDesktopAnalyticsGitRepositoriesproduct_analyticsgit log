@@ -1,0 +1,51 @@
+[33mcommit fa93a8ff7f5b2279a5491373ff9eca18584f12b6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 78f606a 8b00b8d
+Author: ekaterina-lukyanchenko <152790414+ekaterina-lukyanchenko@users.noreply.github.com>
+Date:   Wed Dec 6 13:30:36 2023 +0300
+
+    Merge pull request #2 from ekaterina-lukyanchenko/elukyanchenko/add_function_DAU
+    
+    Fist version of DAU
+
+[33mcommit 8b00b8d102df50223568851313b8d6236114fdfe[m[33m ([m[1;31morigin/elukyanchenko/add_function_DAU[m[33m, [m[1;32melukyanchenko/add_function_DAU[m[33m)[m
+Author: ekaterina-lukyanchenko <name@email.comlukyanchenko.es@gmail.com>
+Date:   Wed Dec 6 13:26:55 2023 +0300
+
+    Fist version of DAU
+
+[33mcommit 78f606a1a2397de9395e5e46e93577a0ff4af215[m
+Merge: 3489f4f 8c36956
+Author: ekaterina-lukyanchenko <152790414+ekaterina-lukyanchenko@users.noreply.github.com>
+Date:   Wed Dec 6 13:04:50 2023 +0300
+
+    Merge pull request #1 from ekaterina-lukyanchenko/elukyanchenko/python_hw
+    
+    Add python script to solve the first hw
+
+[33mcommit 8c36956cfb591f0574170b7b375a9fb364c68e84[m[33m ([m[1;31morigin/elukyanchenko/python_hw[m[33m, [m[1;32melukyanchenko/python_hw[m[33m)[m
+Author: ekaterina-lukyanchenko <name@email.comlukyanchenko.es@gmail.com>
+Date:   Wed Dec 6 12:29:49 2023 +0300
+
+    Add python script to solve the first hw
+
+[33mcommit 3489f4fb64d42c70d31f77a8574da9f5f167b845[m
+Author: ekaterina-lukyanchenko <name@email.comlukyanchenko.es@gmail.com>
+Date:   Wed Dec 6 12:04:43 2023 +0300
+
+    aad real practice to the plan
+     Please enter the commit message for your changes. Lines starting
+    
+    .ipynb_checkpoints/
+
+[33mcommit 677530f50800e2145e75959ca768f95c730f5cf6[m
+Author: ekaterina-lukyanchenko <name@email.comlukyanchenko.es@gmail.com>
+Date:   Mon Dec 4 17:39:14 2023 +0300
+
+    Add two points to the plan: Stat, Plots. Fixed the
+    second lane:  GIT to SQL
+
+[33mcommit 5eacd7308df8a7763b7fbebf1650ddbb3c449f31[m
+Author: ekaterina-lukyanchenko <name@email.comlukyanchenko.es@gmail.com>
+Date:   Mon Dec 4 17:21:15 2023 +0300
+
+    I have added two points how to become an analyst: Python and SQL
